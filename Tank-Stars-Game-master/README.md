@@ -13,4 +13,4 @@ Control your tank using the arrow keys or WASD<br>
 Use the spacebar to fire bullets at enemy tanks<br>
 Survive as long as possible to score the highest points<br>
 ***
-✨ Made by [Aadya](https://github.com/theaadya) and [Aditi](https://github.com/aditiisaxena) ✨
+
